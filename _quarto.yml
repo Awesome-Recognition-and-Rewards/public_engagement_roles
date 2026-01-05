@@ -2,32 +2,32 @@ project:
   type: website
 
 website:
-  title: "Handbook Template"
+  title: "Handbook of Recognition and Rewards"
   favicon: public/favicon.png
   # cover-image: cover.png
   navbar:
-    logo: public/VU-logo-Dia-positief.png
+    logo: public/RR_logo_handbook.png
     background: "#0080c9"
-    logo-alt: "VU Amsterdam logo."
+    logo-alt: "UNL-RR-default"
     title: false
     collapse-below: lg
     left:
-      - text: "Chapters"
+      - text: "Policies"
         menu:
           - text: All
-            file: chapters.qmd
-      # - text: Guides
-      #   file: guides.qmd
+            file: all_universities.qmd
+      - text: Guides
+        file: recommendation.qmd
     tools:
       - icon: github
-        href: https://github.com/ubvu/open-handbook
-        text: GitHub VU Open Handbook
+        href: https://github.com/sanlifaez/Awesome-Recognition-and-Rewards/public_engagement_roles
+        text: Handbook of Recognition and Rewards
       # - icon: rss
       #   href: https://quarto.org/docs/blog/index.xml
       #   text: Quarto Blog RSS
-  site-url: https://ubvu.github.io/handbook-template
-  repo-url: https://github.com/ubvu/handbook-template
-  issue-url: https://github.com/ubvu/handbook-template/issues/new/choose
+  site-url: https://sanlifaez.github.io/Awesome-Recognition-and-Rewards/public_engagement_roles
+  repo-url: https://github.com/sanlifaez/Awesome-Recognition-and-Rewards/public_engagement_roles
+  issue-url: https://github.com/sanlifaez/Awesome-Recognition-and-Rewards/public_engagement_roles/issues/new/choose
   repo-actions: [edit, issue]
   page-navigation: true
   bread-crumbs: true
@@ -36,7 +36,7 @@ website:
       - text: "CC0 Public Domain Dedication"
         href: "https://creativecommons.org/publicdomain/zero/1.0/legalcode"
     right:
-      - text: "By VU & Liberate Science GmbH"
+      - text: "NEWS, UNL-RR"
 bibliography: references.bib
 
 format:
