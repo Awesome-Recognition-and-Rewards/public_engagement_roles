@@ -20,14 +20,14 @@ website:
         file: recommendation.qmd
     tools:
       - icon: github
-        href: https://github.com/sanlifaez/Awesome-Recognition-and-Rewards/public_engagement_roles
+        href: https://github.com/Awesome-Recognition-and-Rewards/public_engagement_roles
         text: Handbook of Recognition and Rewards
       # - icon: rss
       #   href: https://quarto.org/docs/blog/index.xml
       #   text: Quarto Blog RSS
-  site-url: https://sanlifaez.github.io/Awesome-Recognition-and-Rewards/public_engagement_roles
-  repo-url: https://github.com/sanlifaez/Awesome-Recognition-and-Rewards/public_engagement_roles
-  issue-url: https://github.com/sanlifaez/Awesome-Recognition-and-Rewards/public_engagement_roles/issues/new/choose
+  site-url: https://Awesome-Recognition-and-Rewards.github.io/public_engagement_roles
+  repo-url: https://github.com/Awesome-Recognition-and-Rewards/public_engagement_roles
+  issue-url: https://github.com/Awesome-Recognition-and-Rewards/public_engagement_roles/issues/new/choose
   repo-actions: [edit, issue]
   page-navigation: true
   bread-crumbs: true
