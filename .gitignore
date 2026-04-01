@@ -51,3 +51,9 @@ rsconnect/
 /.quarto/
 .DS_Store
 _book
+
+# Ignore Quarto output folders
+/.quarto/
+/_site/
+
+**/*.quarto_ipynb
