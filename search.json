@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
+    "objectID": "recommendation.html",
+    "href": "recommendation.html",
+    "title": "Chapters",
     "section": "",
-    "text": "This is first draft of the handbook.\nTo get started with contributing you need a GitHub account. Visit the repository to contribute 😊"
-  },
-  {
-    "objectID": "chapters/all_universities.html",
-    "href": "chapters/all_universities.html",
-    "title": "Example chapter",
-    "section": "",
-    "text": "This is an example chapter. We can also add references (Knuth 1984) or inline references Knuth (1984)."
-  },
-  {
-    "objectID": "chapters/all_universities.html#section",
-    "href": "chapters/all_universities.html#section",
-    "title": "Example chapter",
-    "section": "Section",
-    "text": "Section\nThis is an example section. Once you include a section this way there will be a table of contents on the page too!\nYou can use all kinds of helpful tools to highlight information - these are called “Callouts”\n\n\n\n\n\n\nNote\n\n\n\nNote that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\n\n\n\n\n\nWarningWarning with Title\n\n\n\nThis is an example of a callout with a title.\n\n\n\n\n\n\n\n\nImportantimportant with Title\n\n\n\nThis is an example of a callout with a title.\n\n\n\n\n\n\n\n\nTipTip with Title\n\n\n\nThis is an example of a callout with a title.\n\n\n\n\n\n\n\n\nCautionExpand To Learn About Collapse\n\n\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default."
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nExample chapter\n\n\n \n\n\n\n\n\n\nExample chapter\n\n\n \n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "chapters/example.html",
@@ -35,10 +21,24 @@
     "text": "Section\nThis is an example section. Once you include a section this way there will be a table of contents on the page too!\nYou can use all kinds of helpful tools to highlight information - these are called “Callouts”\n\n\n\n\n\n\nNote\n\n\n\nNote that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\n\n\n\n\n\nWarningWarning with Title\n\n\n\nThis is an example of a callout with a title.\n\n\n\n\n\n\n\n\nImportantimportant with Title\n\n\n\nThis is an example of a callout with a title.\n\n\n\n\n\n\n\n\nTipTip with Title\n\n\n\nThis is an example of a callout with a title.\n\n\n\n\n\n\n\n\nCautionExpand To Learn About Collapse\n\n\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default."
   },
   {
-    "objectID": "recommendation.html",
-    "href": "recommendation.html",
-    "title": "Chapters",
+    "objectID": "chapters/all_universities.html",
+    "href": "chapters/all_universities.html",
+    "title": "Example chapter",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nExample chapter\n\n\n \n\n\n\n\n\n\nExample chapter\n\n\n \n\n\n\n\n\n\nNo matching items"
+    "text": "This is an example chapter. We can also add references (Knuth 1984) or inline references Knuth (1984)."
+  },
+  {
+    "objectID": "chapters/all_universities.html#section",
+    "href": "chapters/all_universities.html#section",
+    "title": "Example chapter",
+    "section": "Section",
+    "text": "Section\nThis is an example section. Once you include a section this way there will be a table of contents on the page too!\nYou can use all kinds of helpful tools to highlight information - these are called “Callouts”\n\n\n\n\n\n\nNote\n\n\n\nNote that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\n\n\n\n\n\nWarningWarning with Title\n\n\n\nThis is an example of a callout with a title.\n\n\n\n\n\n\n\n\nImportantimportant with Title\n\n\n\nThis is an example of a callout with a title.\n\n\n\n\n\n\n\n\nTipTip with Title\n\n\n\nThis is an example of a callout with a title.\n\n\n\n\n\n\n\n\nCautionExpand To Learn About Collapse\n\n\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "This is first draft of the handbook.\nTo get started with contributing you need a GitHub account. Visit the repository to contribute 😊"
   }
 ]

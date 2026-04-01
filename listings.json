@@ -2,8 +2,8 @@
   {
     "listing": "/recommendation.html",
     "items": [
-      "/chapters/example.html",
-      "/chapters/all_universities.html"
+      "/chapters/all_universities.html",
+      "/chapters/example.html"
     ]
   }
 ]
