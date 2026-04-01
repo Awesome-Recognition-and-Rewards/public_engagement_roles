@@ -6,9 +6,9 @@ website:
   favicon: public/favicon.png
   # cover-image: cover.png
   navbar:
-    logo: public/RR_logo_handbook.png
+    logo: public/RR_handbook_PublicEngagement_logo.png
     background: "#0080c9"
-    logo-alt: "UNL-RR-default"
+    logo-alt: "UNL-RR-PublicEngagement"
     title: false
     collapse-below: lg
     left:
@@ -21,7 +21,7 @@ website:
     tools:
       - icon: github
         href: https://github.com/Awesome-Recognition-and-Rewards/public_engagement_roles
-        text: Handbook of Recognition and Rewards
+        text: Handbook of Recognition and Rewards for Public Engagement Practices
       # - icon: rss
       #   href: https://quarto.org/docs/blog/index.xml
       #   text: Quarto Blog RSS
@@ -36,7 +36,7 @@ website:
       - text: "CC0 Public Domain Dedication"
         href: "https://creativecommons.org/publicdomain/zero/1.0/legalcode"
     right:
-      - text: "NEWS, UNL-RR"
+      - text: "The Netherlands Recognition and Rewards Programme"
 bibliography: references.bib
 
 format:
